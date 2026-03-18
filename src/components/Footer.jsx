@@ -146,7 +146,7 @@ function Footer() {
                 lineHeight: 1,
               }}
             >
-              ST<span style={{ color: "#e8ff00" }}>.</span>
+              CodeByumar<span style={{ color: "#e8ff00" }}>.</span>
             </div>
             <p
               style={{
@@ -339,7 +339,7 @@ function Footer() {
           }}
         >
           <span style={{ fontSize: "0.52rem", color: "#1e1e1e", letterSpacing: "0.1em" }}>
-            © 2025 Turg'unboyov Shaxriyor. All rights reserved.
+            © 2025 Turg'unboyov Muhammad Umar. All rights reserved.
           </span>
 
           <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
